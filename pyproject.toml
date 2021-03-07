@@ -2,6 +2,7 @@
 name = "zbookmarks"
 version = "1.2"
 description = "Load / dump Chrome bookmark files"
+readme = "README.md"
 authors = ["Yannis Zarkadas"]
 license = "Apache-2.0"
 
