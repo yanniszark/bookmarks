@@ -1,3 +1,9 @@
+### Install
+
+```console
+$ pip install zbookmarks
+```
+
 ### Usage
 
 A simple python package for loading / dumping Chrome HTML bookmarks.
