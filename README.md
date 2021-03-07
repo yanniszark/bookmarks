@@ -21,7 +21,7 @@ print(bookmarks)
 
 # Dump
 with open("output.html", "w") as f:
-    zbookmarks.dump_chrome(bms, f)
+    zbookmarks.dump_chrome(bookmarks, f)
 ```
 
 
